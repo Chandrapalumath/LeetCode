@@ -4,10 +4,8 @@ public:
         vector<int>nums3;
         sort(nums1.begin(),nums1.end());
         sort(nums2.begin(),nums2.end());
-        int n1=nums1.size();
-        int n2=nums2.size();
         int i=0,j=0;
-        while(i<n1 && j<n2){
+        while(i<nums1.size() && j<nums2.size()){
             if(nums1[i]==nums2[j]){
                 nums3.push_back(nums1[i]);
                 i++;
