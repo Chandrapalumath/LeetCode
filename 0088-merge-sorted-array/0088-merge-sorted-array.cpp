@@ -29,5 +29,6 @@ public:
         for(i=0;i<m+n;i++){
             nums1[i]=nums[i];
         }
+        
     }
 };
