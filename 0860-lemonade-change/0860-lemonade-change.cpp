@@ -16,5 +16,3 @@ public:
         return true;
     }
 };
-
-// 5+
