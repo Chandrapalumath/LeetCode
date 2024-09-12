@@ -18,10 +18,11 @@ public:
                         break;
                     }
                 }
-                if(flag) {ans++;cout<<"Hii";}
+                if(flag) {ans++;}
             }
         }
         return ans;
     }
 };
-            
+
+// More Optimized way can be there by using both the loop in one
