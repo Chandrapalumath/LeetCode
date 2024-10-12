@@ -1,5 +1,6 @@
 class Solution {
 public:
+    ///////////////////////////////////////////////////////////////////////////////
     bool checkInclusion(string s1, string s2) {
         int arr[26]={0};
         for(char c:s1) arr[c-'a']++;
