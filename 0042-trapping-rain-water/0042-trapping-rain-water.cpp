@@ -2,8 +2,6 @@ class Solution {
 public:
     int trap(vector<int>& height) {
         vector<int>lr;
-        
-        
         int n=height.size();
         if(n==1) return 0;
         int rr[n];
