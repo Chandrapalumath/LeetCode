@@ -5,7 +5,6 @@ public:
         int l=0;
         int r,mid;
         r=n;
-        //If the target value is present
         while(l<r){
             mid = (l+r)/2;
             if(nums[mid]>=target){
