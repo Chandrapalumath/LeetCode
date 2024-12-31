@@ -4,14 +4,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0617-merge-two-binary-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0617-merge-two-binary-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0617-merge-two-binary-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
 |  |
@@ -36,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Chandrapalumath/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Binary Tree
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
