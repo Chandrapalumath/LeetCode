@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Chandrapalumath/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Chandrapalumath/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Dynamic Programming
 |  |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/0617-merge-two-binary-trees) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Chandrapalumath/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
