@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Chandrapalumath/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0619-biggest-single-number](https://github.com/Chandrapalumath/LeetCode/tree/master/0619-biggest-single-number) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Chandrapalumath/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 ## Binary Tree
 |  |
 | ------- |
