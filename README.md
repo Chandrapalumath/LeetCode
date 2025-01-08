@@ -68,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Chandrapalumath/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Math
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/Chandrapalumath/LeetCode/tree/master/2050-count-good-numbers) |
+## Recursion
+|  |
+| ------- |
+| [2050-count-good-numbers](https://github.com/Chandrapalumath/LeetCode/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
