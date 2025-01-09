@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0617-merge-two-binary-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [1025-minimum-cost-for-tickets](https://github.com/Chandrapalumath/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Chandrapalumath/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Chandrapalumath/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0617-merge-two-binary-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Trie
 |  |
@@ -74,9 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [2050-count-good-numbers](https://github.com/Chandrapalumath/LeetCode/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/Chandrapalumath/LeetCode/tree/master/2050-count-good-numbers) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
