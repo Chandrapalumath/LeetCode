@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0952-word-subsets](https://github.com/Chandrapalumath/LeetCode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Chandrapalumath/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1524-string-matching-in-an-array](https://github.com/Chandrapalumath/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Chandrapalumath/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Chandrapalumath/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0952-word-subsets](https://github.com/Chandrapalumath/LeetCode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/Chandrapalumath/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Chandrapalumath/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Chandrapalumath/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## Hash Table
+|  |
+| ------- |
+| [0952-word-subsets](https://github.com/Chandrapalumath/LeetCode/tree/master/0952-word-subsets) |
 <!---LeetCode Topics End-->
