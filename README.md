@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Chandrapalumath/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0619-biggest-single-number](https://github.com/Chandrapalumath/LeetCode/tree/master/0619-biggest-single-number) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Chandrapalumath/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
+| [1942-primary-department-for-each-employee](https://github.com/Chandrapalumath/LeetCode/tree/master/1942-primary-department-for-each-employee) |
 ## Binary Tree
 |  |
 | ------- |
