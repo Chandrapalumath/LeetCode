@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0441-arranging-coins](https://github.com/Chandrapalumath/LeetCode/tree/master/0441-arranging-coins) |
 | [2050-count-good-numbers](https://github.com/Chandrapalumath/LeetCode/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0441-arranging-coins](https://github.com/Chandrapalumath/LeetCode/tree/master/0441-arranging-coins) |
 ## Hash Table
 |  |
 | ------- |
