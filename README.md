@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Chandrapalumath/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Chandrapalumath/LeetCode/tree/master/0049-group-anagrams) |
 | [0120-triangle](https://github.com/Chandrapalumath/LeetCode/tree/master/0120-triangle) |
 | [0952-word-subsets](https://github.com/Chandrapalumath/LeetCode/tree/master/0952-word-subsets) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Chandrapalumath/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Chandrapalumath/LeetCode/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/Chandrapalumath/LeetCode/tree/master/0147-insertion-sort-list) |
 ## Bit Manipulation
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Chandrapalumath/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Chandrapalumath/LeetCode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
