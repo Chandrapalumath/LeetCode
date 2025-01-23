@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [1396-count-servers-that-communicate](https://github.com/Chandrapalumath/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [1396-count-servers-that-communicate](https://github.com/Chandrapalumath/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
 |  |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Chandrapalumath/LeetCode/tree/master/0120-triangle) |
 | [0952-word-subsets](https://github.com/Chandrapalumath/LeetCode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Chandrapalumath/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1396-count-servers-that-communicate](https://github.com/Chandrapalumath/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/Chandrapalumath/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Chandrapalumath/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Chandrapalumath/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Chandrapalumath/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Chandrapalumath/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Chandrapalumath/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
@@ -160,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chandrapalumath/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Chandrapalumath/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Chandrapalumath/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Chandrapalumath/LeetCode/tree/master/1396-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Chandrapalumath/LeetCode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
