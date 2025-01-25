@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Chandrapalumath/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Chandrapalumath/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Chandrapalumath/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0596-classes-more-than-5-students](https://github.com/Chandrapalumath/LeetCode/tree/master/0596-classes-more-than-5-students) |
 | [0610-triangle-judgement](https://github.com/Chandrapalumath/LeetCode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Chandrapalumath/LeetCode/tree/master/0619-biggest-single-number) |
 | [1877-find-followers-count](https://github.com/Chandrapalumath/LeetCode/tree/master/1877-find-followers-count) |
