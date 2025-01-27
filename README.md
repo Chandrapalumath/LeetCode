@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Chandrapalumath/LeetCode/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/Chandrapalumath/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Chandrapalumath/LeetCode/tree/master/0049-group-anagrams) |
 | [0120-triangle](https://github.com/Chandrapalumath/LeetCode/tree/master/0120-triangle) |
 | [0952-word-subsets](https://github.com/Chandrapalumath/LeetCode/tree/master/0952-word-subsets) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Chandrapalumath/LeetCode/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0441-arranging-coins](https://github.com/Chandrapalumath/LeetCode/tree/master/0441-arranging-coins) |
 | [2050-count-good-numbers](https://github.com/Chandrapalumath/LeetCode/tree/master/2050-count-good-numbers) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Chandrapalumath/LeetCode/tree/master/0048-rotate-image) |
 | [1396-count-servers-that-communicate](https://github.com/Chandrapalumath/LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Sliding Window
 |  |
