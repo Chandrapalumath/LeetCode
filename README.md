@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Chandrapalumath/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Chandrapalumath/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Chandrapalumath/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Chandrapalumath/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Chandrapalumath/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Chandrapalumath/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Chandrapalumath/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/Chandrapalumath/LeetCode/tree/master/0120-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/Chandrapalumath/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Chandrapalumath/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Chandrapalumath/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Chandrapalumath/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Database
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Chandrapalumath/LeetCode/tree/master/0049-group-anagrams) |
 | [0952-word-subsets](https://github.com/Chandrapalumath/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Chandrapalumath/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Chandrapalumath/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Chandrapalumath/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Chandrapalumath/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Chandrapalumath/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2509-minimize-xor](https://github.com/Chandrapalumath/LeetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Chandrapalumath/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Chandrapalumath/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
