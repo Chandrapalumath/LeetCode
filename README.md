@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Chandrapalumath/LeetCode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Chandrapalumath/LeetCode/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/Chandrapalumath/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Chandrapalumath/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Chandrapalumath/LeetCode/tree/master/0049-group-anagrams) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Chandrapalumath/LeetCode/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chandrapalumath/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Chandrapalumath/LeetCode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Chandrapalumath/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Chandrapalumath/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## Union Find
