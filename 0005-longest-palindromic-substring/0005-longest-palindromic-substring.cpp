@@ -10,7 +10,7 @@ public:
                 int high=j+i;
                 while(low>=0 && high<n && s[low]==s[high]){
                     int cur=high-low+1;
-                    if(cur>ml){
+                    if(cur>=ml){
                         ml=cur;
                         start=low;
                     }
