@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Chandrapalumath/LeetCode/tree/master/0200-number-of-islands) |
 | [0617-merge-two-binary-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [1396-count-servers-that-communicate](https://github.com/Chandrapalumath/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Chandrapalumath/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Chandrapalumath/LeetCode/tree/master/0200-number-of-islands) |
 | [0617-merge-two-binary-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Chandrapalumath/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Chandrapalumath/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Chandrapalumath/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Chandrapalumath/LeetCode/tree/master/0049-group-anagrams) |
 | [0120-triangle](https://github.com/Chandrapalumath/LeetCode/tree/master/0120-triangle) |
+| [0200-number-of-islands](https://github.com/Chandrapalumath/LeetCode/tree/master/0200-number-of-islands) |
 | [0952-word-subsets](https://github.com/Chandrapalumath/LeetCode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Chandrapalumath/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Chandrapalumath/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -198,12 +201,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Chandrapalumath/LeetCode/tree/master/0200-number-of-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Chandrapalumath/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Chandrapalumath/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Chandrapalumath/LeetCode/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/Chandrapalumath/LeetCode/tree/master/0200-number-of-islands) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Chandrapalumath/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Chandrapalumath/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Chandrapalumath/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
