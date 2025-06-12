@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Chandrapalumath/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Chandrapalumath/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Chandrapalumath/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Chandrapalumath/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Chandrapalumath/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Chandrapalumath/LeetCode/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/Chandrapalumath/LeetCode/tree/master/0120-triangle) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chandrapalumath/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Chandrapalumath/LeetCode/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/Chandrapalumath/LeetCode/tree/master/0120-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/Chandrapalumath/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Chandrapalumath/LeetCode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chandrapalumath/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
