@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Chandrapalumath/LeetCode/tree/master/0120-triangle) |
 | [0200-number-of-islands](https://github.com/Chandrapalumath/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chandrapalumath/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Chandrapalumath/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0952-word-subsets](https://github.com/Chandrapalumath/LeetCode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Chandrapalumath/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Chandrapalumath/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Chandrapalumath/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0096-unique-binary-search-trees](https://github.com/Chandrapalumath/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0349-intersection-of-two-arrays](https://github.com/Chandrapalumath/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/Chandrapalumath/LeetCode/tree/master/0441-arranging-coins) |
 ## Hash Table
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chandrapalumath/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Chandrapalumath/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Chandrapalumath/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Chandrapalumath/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Chandrapalumath/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0952-word-subsets](https://github.com/Chandrapalumath/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Chandrapalumath/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Chandrapalumath/LeetCode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Chandrapalumath/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chandrapalumath/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Chandrapalumath/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Chandrapalumath/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Chandrapalumath/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Chandrapalumath/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Chandrapalumath/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Chandrapalumath/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
