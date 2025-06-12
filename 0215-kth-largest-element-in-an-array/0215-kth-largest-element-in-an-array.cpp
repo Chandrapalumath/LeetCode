@@ -4,7 +4,7 @@ public:
         int n=nums.size();
         
         
-        //First Approach is to sort it
+        //First Approach is to sort it 
         // sort(nums.begin(),nums.end());
         // return nums[n-k];
         
