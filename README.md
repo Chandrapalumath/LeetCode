@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Chandrapalumath/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Chandrapalumath/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chandrapalumath/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Chandrapalumath/LeetCode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Chandrapalumath/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Chandrapalumath/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Chandrapalumath/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chandrapalumath/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Chandrapalumath/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Chandrapalumath/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/Chandrapalumath/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Chandrapalumath/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Chandrapalumath/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0560-subarray-sum-equals-k](https://github.com/Chandrapalumath/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Chandrapalumath/LeetCode/tree/master/0229-majority-element-ii) |
 | [1396-count-servers-that-communicate](https://github.com/Chandrapalumath/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Chandrapalumath/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Chandrapalumath/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Chandrapalumath/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Chandrapalumath/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chandrapalumath/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Chandrapalumath/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Chandrapalumath/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
