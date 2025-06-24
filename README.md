@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Chandrapalumath/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Chandrapalumath/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Chandrapalumath/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Chandrapalumath/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Chandrapalumath/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Chandrapalumath/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Chandrapalumath/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Chandrapalumath/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Chandrapalumath/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Chandrapalumath/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
