@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Chandrapalumath/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Chandrapalumath/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Chandrapalumath/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/Chandrapalumath/LeetCode/tree/master/0575-distribute-candies) |
 | [0952-word-subsets](https://github.com/Chandrapalumath/LeetCode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Chandrapalumath/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Chandrapalumath/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Chandrapalumath/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Chandrapalumath/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0560-subarray-sum-equals-k](https://github.com/Chandrapalumath/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/Chandrapalumath/LeetCode/tree/master/0575-distribute-candies) |
 | [0952-word-subsets](https://github.com/Chandrapalumath/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Chandrapalumath/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Chandrapalumath/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
