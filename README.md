@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Chandrapalumath/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Chandrapalumath/LeetCode/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Chandrapalumath/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0556-next-greater-element-iii](https://github.com/Chandrapalumath/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Chandrapalumath/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Chandrapalumath/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Chandrapalumath/LeetCode/tree/master/0696-count-binary-substrings) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Chandrapalumath/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Chandrapalumath/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/Chandrapalumath/LeetCode/tree/master/0441-arranging-coins) |
+| [0556-next-greater-element-iii](https://github.com/Chandrapalumath/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [2050-count-good-numbers](https://github.com/Chandrapalumath/LeetCode/tree/master/2050-count-good-numbers) |
 ## Recursion
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Chandrapalumath/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Chandrapalumath/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Chandrapalumath/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0556-next-greater-element-iii](https://github.com/Chandrapalumath/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Chandrapalumath/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Chandrapalumath/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Chandrapalumath/LeetCode/tree/master/0696-count-binary-substrings) |
