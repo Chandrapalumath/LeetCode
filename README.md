@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Chandrapalumath/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Chandrapalumath/LeetCode/tree/master/0409-longest-palindrome) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Chandrapalumath/LeetCode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0516-longest-palindromic-subsequence](https://github.com/Chandrapalumath/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/Chandrapalumath/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/Chandrapalumath/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Chandrapalumath/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Chandrapalumath/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chandrapalumath/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Chandrapalumath/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0516-longest-palindromic-subsequence](https://github.com/Chandrapalumath/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/Chandrapalumath/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1250-longest-common-subsequence](https://github.com/Chandrapalumath/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Chandrapalumath/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
