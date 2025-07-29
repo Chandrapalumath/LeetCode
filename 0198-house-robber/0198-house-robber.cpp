@@ -1,18 +1,4 @@
-class Solution {
-public:
-    int rob(vector<int>& nums) {
-        int n=nums.size();
-        vector<int>dp(n+1);
-        dp[0]=0;
-        dp[1]=nums[0];
-        for(int i=2;i<n+1;i++){
-            int pick = nums[i-1]+ dp[i-2]; //recur(nums,n-2,dp);
-            int nopick = dp[i-1]; //recur(nums,n-1,dp);
-            dp[i] = max(pick,nopick);
-        }
-        return dp[n];
-    }
-};
+//All the codes are available in the increasing order of optimation see down
 
 // Normal Recursion Code 
 /*
@@ -57,5 +43,36 @@ public:
 
 // DP -> Tabulation
 /*
-
+class Solution {
+public:
+    int rob(vector<int>& nums) {
+        int n=nums.size();
+        vector<int>dp(n+1);
+        dp[0]=0;
+        dp[1]=nums[0];
+        for(int i=2;i<n+1;i++){
+            int pick = nums[i-1]+ dp[i-2]; //recur(nums,n-2,dp);
+            int nopick = dp[i-1]; //recur(nums,n-1,dp);
+            dp[i] = max(pick,nopick);
+        }
+        return dp[n];
+    }
+};
 */
+
+//Space Optimized Code
+class Solution {
+public:
+    int rob(vector<int>& nums) {
+        int n=nums.size();
+        int prev1=0;
+        int prev2=nums[0];
+        for(int i=2;i<n+1;i++){
+            int pick = nums[i-1]+ prev1; //recur(nums,n-2,dp);
+            int nopick = prev2; //recur(nums,n-1,dp);
+            prev1=prev2;
+            prev2 = max(pick,nopick);
+        }
+        return prev2;
+    }
+};
