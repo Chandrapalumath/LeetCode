@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Chandrapalumath/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Chandrapalumath/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Chandrapalumath/LeetCode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Chandrapalumath/LeetCode/tree/master/0338-counting-bits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Chandrapalumath/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/Chandrapalumath/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1170-shortest-common-supersequence](https://github.com/Chandrapalumath/LeetCode/tree/master/1170-shortest-common-supersequence) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Chandrapalumath/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Chandrapalumath/LeetCode/tree/master/0338-counting-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Chandrapalumath/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Chandrapalumath/LeetCode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [2509-minimize-xor](https://github.com/Chandrapalumath/LeetCode/tree/master/2509-minimize-xor) |
